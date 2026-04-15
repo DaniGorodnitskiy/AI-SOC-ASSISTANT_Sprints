@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI SOC Assistant – Milestone Repository (Sprint 4)
 
 ## Overview
@@ -145,3 +146,7 @@ A more detailed version appears in [`docs/architecture.md`](docs/architecture.md
 
 This repository is a **milestone snapshot** and does not represent the final project state.
 It is intentionally limited to the functionality and implementation scope relevant to **Sprint 3** and **Sprint 4**.
+=======
+# AI-SOC-ASSISTANT_Sprints
+Milestone repository presenting the project state up to Sprint 4, including architecture, authentication flow, database design, and initial frontend/backend integration.
+>>>>>>> 453e4f0bbb91110194a37967fcf582c521380c1d
