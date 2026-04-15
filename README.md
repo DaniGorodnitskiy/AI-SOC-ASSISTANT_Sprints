@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI SOC Assistant – Milestone Repository (Sprint 4)
 
 ## Overview
